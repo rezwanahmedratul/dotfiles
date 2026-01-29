@@ -21,7 +21,7 @@
 
 .modules-left,
 .modules-right {
-  background: rgba(0, 0, 0, 0.25);
+  background: rgba(0, 0, 0, 0.20);
   border-radius: 7px;
   padding: 0px 8px;
   /* spacing inside */
@@ -78,7 +78,7 @@ tooltip {
 }*/
 
 #clock {
-  background: rgba(0, 0, 0, 0.25);
+  background: rgba(0, 0, 0, 0.20);
   border-radius: 7px;
   padding: 0px 12px;
   /* controls pill thickness */
