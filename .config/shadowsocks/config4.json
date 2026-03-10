@@ -1,0 +1,10 @@
+{
+  "server": "64.190.17.78",
+  "server_port": 12348,
+  "local_address": "127.0.0.1",
+  "local_port": 1084,
+  "password": "T8@qN5#vX3rB!1cE",
+  "timeout": 300,
+  "method": "chacha20-ietf-poly1305",
+  "mode": "tcp_and_udp"
+}
