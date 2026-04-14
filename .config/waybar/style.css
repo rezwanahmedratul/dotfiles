@@ -11,20 +11,11 @@
   font-size: 12px;
 }
 
-/*.modules-left {
-  margin-left: 8px;
-}
-
-.modules-right {
-  margin-right: 8px;
-}*/
-
 .modules-left,
 .modules-right {
   background: rgba(0, 0, 0, 0.20);
   border-radius: 7px;
   padding: 0px 8px;
-  /* spacing inside */
   margin: 2px 8px;
 }
 
@@ -62,7 +53,7 @@
 }
 
 #custom-expand-icon {
-  margin-right: 18px;
+  margin-right: 15px;
 }
 
 tooltip {
@@ -72,10 +63,6 @@ tooltip {
 #custom-update {
   font-size: 10px;
 }
-
-/*#clock {
-  margin-left: 8.75px;
-}*/
 
 #clock {
   background: rgba(0, 0, 0, 0.20);
